@@ -1,6 +1,6 @@
 # Simple React Weather Forecast Web APP
 
-A simple APP that can visualize weather data based on user input.
+A simple APP that can visualize city weather data based on user input.
 
 ## Web page URL
 
